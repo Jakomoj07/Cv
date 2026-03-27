@@ -14,7 +14,7 @@
 
 ## 🚀 O mnie & Moje Atuty
 
-Mam 18 lat. Jestem programistą w trakcie 4. klasy technikum, posiadającym zdany certyfikat **INF.03**. Specjalizuję się we frontendzie, ale stale poszerzam wiedzę o technologie mobilne i analizę danych.
+Mam 18 lat. Jestem programistą w trakcie 4. klasy technikum, posiadającym zdany certyfikat **INF.03**. Specjalizuję się we frontendzie, ale stale poszerzam wiedzę o technologie mobilne i analizę danych. Posiadam już pierwsze doświadczenie komercyjne.
 
 **Dlaczego warto ze mną współpracować?**
 * **Analityczne Podejście:** Moje zainteresowanie statystyką i taktyką sportową przekłada się na umiejętność logicznego rozwiązywania problemów w kodzie.
@@ -46,6 +46,18 @@ Mam 18 lat. Jestem programistą w trakcie 4. klasy technikum, posiadającym zdan
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 💼 Doświadczenie Zawodowe
+
+### Praktykant IT | IMPRAX
+* **Czas trwania:** 1 miesiąc (Praktyki zawodowe)
+* **Zakres obowiązków:** Praca z relacyjnymi bazami danych oraz tworzenie i integracja skryptów **PHP** z bazą danych. Zdobycie pierwszych szlifów w środowisku komercyjnym.
+
+### Kelner | Restauracja Viva
+* **Czas trwania:** 6 miesięcy
+* **Rozwój umiejętności miękkich:** Praca w tym miejscu nauczyła mnie doskonałej organizacji pod presją czasu, wielozadaniowości oraz sprawnej komunikacji i obsługi klienta (co świetnie przekłada się na zrozumienie potrzeb użytkownika końcowego w IT).
 
 ---
 
